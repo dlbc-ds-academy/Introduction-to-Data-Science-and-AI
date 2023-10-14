@@ -80,8 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 * [Cognitive Class](https://cognitiveclass.ai/)
 * [IBM Cloud](https://www.ibm.com/cloud)
-* [Joseph Santarcangelo](https://www.linkedin.com/in/joseph-s-50398b136/)
-* [Mavis Zhou](https://www.linkedin.com/in/jiahui-mavis-zhou-a4537814a/)
 * [Python for Data Science and AI (Coursera)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
 * [Jupyter Notebook](https://jupyter.org/)
 * [Google Colab](https://colab.research.google.com/)
